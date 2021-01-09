@@ -1,0 +1,31 @@
+
+.first_colone{
+display: flex;
+font-size: x-large;
+margin-top: 8%;
+margin-left: 6%;
+background-color: #f9fafc;
+} 
+.second_colone{
+    display: flex;
+ 
+    font-size: x-large;
+    margin-top: 8%;
+    margin-left: 6%;
+    background-color: #f9fafc;
+    } 
+    .third_colone{
+       display: flex;
+        font-size: x-large;
+        margin-top: 8%;
+        margin-left: 6%;
+        background-color: #f9fafc;
+        } 
+        .forth_colone{
+            display: flex;
+ 
+            font-size: x-large;
+            margin-top: 8%;
+            margin-left: 6%;
+            background-color: #f9fafc;
+            } 
